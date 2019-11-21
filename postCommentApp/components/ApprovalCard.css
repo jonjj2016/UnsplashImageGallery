@@ -1,0 +1,10 @@
+.approve {
+    transition: 300ms ease-in-out;
+}
+
+.approve:hover {
+
+    background: #21BA45;
+    color: #fff;
+
+}
